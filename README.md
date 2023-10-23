@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shriya Chouhan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+![image](https://github.com/ShriyaChouhan/ShriyaChouhan/assets/128309746/ab3eadba-ee07-4d1e-bc98-562a0c542f76)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyachouhan&label=Profile%20views&color=0e75b6&style=flat" alt="shriyachouhan" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning (ML)**
