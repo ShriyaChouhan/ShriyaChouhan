@@ -10,7 +10,7 @@
 
 - 💻 Owner of [**PyTopia**](https://github.com/ShriyaChouhan) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [ Python,SQL,Machine Learning, Power BI]
-- 📫 How to reach me: hejazizo@shriyachouhan1@gmail.com
+- 📫 How to reach me: @shriyachouhan1@gmail.com
 
 
 ### 🖥 Skills
