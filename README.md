@@ -1,34 +1,27 @@
 # Shriya Chouhan
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShriya Chouhan%2FShriya Chouhan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/twitter.com/ShriyaChouhan21)](https://twitter.com/twitter.com/ShriyaChouhan21)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/shriya-chouhan/)
+<h1 align="center">Hi 👋, I'm Shriya Chouhan</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shriyachouhan1@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyachouhan&label=Profile%20views&color=0e75b6&style=flat" alt="shriyachouhan" /> </p>
 
-[![Github](https://img.shields.io/github/followers/Shriya Chouhan?label=Follow&style=social)](https://github.com/Shriya Chouhan)
+- 🌱 I’m currently learning **Deep Learning (ML)**
 
-- 💻 Owner of [**PyTopia**](https://github.com/ShriyaChouhan) github organization. Check it out for daily Python and Machine Learning contents.
-- 🤔 I’m currently reading [ Python,SQL,Machine Learning, Power BI]
-- 📫 How to reach me: @shriyachouhan1@gmail.com
+- 👯 I’m looking to collaborate on **Creative Challenges**
 
+- 📫 How to reach me **shriyachouhan1@gmail.com**
 
-### 🖥 Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/shriya-chouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shriya-chouhan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hackerrank.com/profile/shriyachouhan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/profile/shriyachouhan1" height="30" width="40" /></a>
+</p>
 
-- Machine Learning
-- Natural Language Processing
-- SQL
-- Power BI
-- Google Analytics
-- Excel
-### ⚙️ Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyachouhan&show_icons=true&locale=en&layout=compact" alt="shriyachouhan" /></p>
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shriya Chouhan&show_icons=true&locale=en&layout=compact" alt="Shriya Chouhan" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Shriya Chouhan&" alt="Shriya Chouhan" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriyachouhan&show_icons=true&locale=en" alt="shriyachouhan" /></p>
 
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriyachouhan&" alt="shriyachouhan" /></p>
