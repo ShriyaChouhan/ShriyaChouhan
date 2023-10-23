@@ -1,5 +1,5 @@
 # Shriya Chouhan
-![video](https://github.com/ShriyaChouhan/ShriyaChouhan/blob/main/Black%20and%20White%20Modern%20Welcome%20to%20my%20Channel%20Video.mp4)
+![logo](https://github.com/ShriyaChouhan/ShriyaChouhan/blob/main/Banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Shriya Chouhan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
